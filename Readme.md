@@ -1,4 +1,4 @@
-# Wallet App UI
+# React native Custom components
 
 - React native Expo
 - Typescript
