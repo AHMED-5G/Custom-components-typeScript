@@ -102,7 +102,7 @@ const TextInputs: FunctionComponent<Props> = ({ navigation }) => {
           />
           <FormTextInput
             placeholder="Phone"
-            icon={<AntDesign name="phone" size={24} color="black" />}
+            icon={<AntDesign name="phone" size={30} color="black" />}
             value={phone}
             setText={setPhone}
             validations={validateIntNumber(phone)}
